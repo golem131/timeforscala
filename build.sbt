@@ -19,7 +19,7 @@ headers := Map(
 //releaseSettings
 //sonatypeSettings
 //ReleaseKeys.crossBuild := true
-crossScalaVersions := Seq("2.11.11", "2.12.2", "2.13.0-M1")
+crossScalaVersions := Seq("2.11.11", "2.12.3", "2.13.0-M2")
 licenses := Seq("Apache License, Version 2.0" -> url("http://www.apache.org/licenses/LICENSE-2.0"))
 homepage := Some(url("https://github.com/johanandren/timeforscala"))
 publishMavenStyle := true
